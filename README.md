@@ -1,5 +1,6 @@
 # Click-Rate-prediction-using-classificaton
-The objective is to predict whether the audience will click on an ad or not and thus help the marketing team answer ad placement-related questions
+
+* The goal is to assist the marketing team in answering queries about ad placement by forecasting whether or not the audience would click on an advertisement.
 
 ![image](https://github.com/hemanthsaich/Click-Through-Rate/assets/91429511/b7ee7a22-78be-49d4-8610-c5ceaba22feb)
 
