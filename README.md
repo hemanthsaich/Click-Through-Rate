@@ -22,3 +22,6 @@ Code .py file-
 6. Compare which methods work best based on the evaluation metrics mentioned in the previous point.
 
 7. Use model simplification techniques like feature creation and selection, to improve model predictability. 
+
+### Click-Through Rate (CTR) Journal Publication : 
+* [Click Here](/Click-Through Rate (CTR) Journal Publication.pdf)
