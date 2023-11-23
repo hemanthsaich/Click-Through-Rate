@@ -24,4 +24,4 @@ Code .py file-
 7. Use model simplification techniques like feature creation and selection, to improve model predictability. 
 
 ### Click-Through Rate (CTR) Journal Publication : 
-* [Click Here](/Click-Through Rate (CTR) Journal Publication.pdf)
+* ([Click Here](https://github.com/hemanthsaich/Click-Through-Rate/blob/main/Click-Through%20Rate%20(CTR)%20Journal%20Publication.pdf)
