@@ -10,7 +10,6 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -33,11 +32,6 @@ Explore the following sections to delve deeper into the project:
 
 ## Future Enhancements
 We are committed to continuous improvement.
-
-## Contact
-For inquiries or collaboration opportunities, feel free to reach out:
-- Email: hemanthsai1566@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hemanthsaich/)
 
 ## Acknowledgments
 I express my gratitude to Blackbucks Private Limited for providing the opportunity to work on this exciting project during my internship.
