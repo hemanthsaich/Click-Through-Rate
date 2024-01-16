@@ -2,7 +2,7 @@
 
 *Empowering Marketing Decisions through Click-Through Rate Prediction*
 
-![Click-Through Rate Prediction](https://github.com/hemanthsaich/Click-Through-Rate/assets/91429511/b7ee7a22-78be-49d4-8610-c5ceaba22feb)
+![Click-Through Rate Prediction](https://telegra.ph/file/958c479eb3f7c3c0f0059.png)
 
 ## Table of Contents
 - [Overview](#overview)
